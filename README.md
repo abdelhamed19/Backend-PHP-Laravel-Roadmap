@@ -22,3 +22,6 @@ In this section, you'll learn to track, manage, and collaborate on code with eas
 ### 3) Front-End Basics 🎨
 Understanding front-end basics is essential for backend developers to build seamless, efficient, and user-friendly web applications.
 This section covers the fundamental concepts and technologies that make up the user interface and enable interaction between the backend and frontend of web applications.
+[HTML](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+[CSS](https://www.youtube.com/watch?v=yfoY53QXEnI&pp=ygUfY3NzIGNyYXNoIGNvdXJzZSB0cmF2ZXJzeSBtZWRpYQ%3D%3D)
+[JS](https://www.youtube.com/watch?v=hdI2bqOjy3c&pp=ygUeanMgY3Jhc2ggY291cnNlIHRyYXZlcnN5IG1lZGlh)
