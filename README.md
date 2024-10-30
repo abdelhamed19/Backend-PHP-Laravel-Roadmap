@@ -9,4 +9,4 @@ A complete roadmap for mastering backend development with PHP and Laravel. This 
 -  Design Patterns
 -  Laravel Basics
 -  Laravel Project (MVC)
--  Larvel APIs
+-  Laravel APIs
