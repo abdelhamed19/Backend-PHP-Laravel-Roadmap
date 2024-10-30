@@ -12,3 +12,5 @@ A complete roadmap for mastering backend development with PHP and Laravel. This 
 - Laravel APIs
 ### 1) Web Fundamentals 🌐
 This section provides an essential foundation for understanding how the web works. These core concepts are crucial for any backend developer to know, as they enable seamless interaction with frontend technologies and improve the performance, security, and scalability of web applications.
+- [Part1](https://www.youtube.com/watch?v=y6EW1vx3zo4&list=PL13Ag2mfco65xXKGmqs6R4noM3CirsSNO&index=1&pp=iAQB)
+- [Part2](https://www.youtube.com/watch?v=SLoPHcPhuEo&list=PL13Ag2mfco65xXKGmqs6R4noM3CirsSNO&index=2&pp=iAQB)
