@@ -19,7 +19,6 @@ as they enable seamless interaction with frontend technologies and improve the p
 Version control is a fundamental skill for developers, enabling efficient management of code changes, collaboration, and project history. 
 In this section, you'll learn to track, manage, and collaborate on code with ease, ensuring that your projects remain organized and maintainable as they grow.
 - [Github](https://youtu.be/ACOiGZoqC8w?feature=shared)
-- 
 ### 3) Front-End Basics 🎨
 Understanding front-end basics is essential for backend developers to build seamless, efficient, and user-friendly web applications.
 This section covers the fundamental concepts and technologies that make up the user interface and enable interaction between the backend and frontend of web applications.
@@ -42,8 +41,8 @@ Laravel is a powerful PHP framework designed for web application development. It
 ### 8) Laravel Project (MVC) 🏗️
 Building a project using the MVC (Model-View-Controller) architecture in Laravel is essential for understanding how to create structured and maintainable web applications.
 This section guides you through developing a full-fledged application, demonstrating the application of Laravel’s features within the MVC paradigm.
-[Full Course](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
+- [Full Course](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 ### 8) Laravel APIs 🌐
 Creating APIs (Application Programming Interfaces) with Laravel allows developers to build robust backends that can serve data to various clients,
 such as web applications,mobile apps, and other services. This section covers the essential concepts and techniques for developing RESTful APIs in Laravel.
-[Full Course](https://www.youtube.com/watch?v=9FJeoq5z1_Y&pp=ygUhTGFyYXZlbCAxMCBmb3IgUkVTVCBBUEkgIPCfmoDimqEg)
+- [Full Course](https://www.youtube.com/watch?v=9FJeoq5z1_Y&pp=ygUhTGFyYXZlbCAxMCBmb3IgUkVTVCBBUEkgIPCfmoDimqEg)
